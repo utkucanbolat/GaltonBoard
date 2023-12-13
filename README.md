@@ -18,7 +18,7 @@ Ensure you have YADE installed on your system. For installation instructions, re
     ```
     yade galton_board.py
     ```
-    or for daily builds:
+    or for yadedaily builds:
     ```
     yadedaily galton_board.py
     ```
